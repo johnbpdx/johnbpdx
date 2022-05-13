@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @johnbpdx
+- 👀 I’m interested in SQL
+- 🌱 I’m currently learning SQL
+- 💞️ I’m looking to collaborate on anything
+- 📫 How to reach me john@59brandon.com
